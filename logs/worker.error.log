@@ -1,0 +1,1382 @@
+23:30:41 RQ worker 'rq:worker:cb379f011a1a45c1abf3797a1b9a3e4c.ahmed.25603.short' started, version 0.12.0
+23:30:41 *** Listening on short...
+23:30:41 Cleaning registries for queue: short
+23:30:41 RQ worker 'rq:worker:ff3dffcfd9fb41a283172f587dd33a39.ahmed.25602.default' started, version 0.12.0
+23:30:41 *** Listening on default...
+23:30:41 Cleaning registries for queue: default
+23:30:42 RQ worker 'rq:worker:ad95012634b14a19bedd62e4244bdf7b.ahmed.25604.long' started, version 0.12.0
+23:30:42 *** Listening on long...
+23:30:42 Cleaning registries for queue: long
+23:31:12 Warm shut down requested
+23:31:12 Warm shut down requested
+23:31:12 Warm shut down requested
+23:31:37 RQ worker 'rq:worker:f46feaacf53c4d7fb94e8abb265800e4.ahmed.25678.default' started, version 0.12.0
+23:31:37 *** Listening on default...
+23:31:37 Cleaning registries for queue: default
+23:31:38 RQ worker 'rq:worker:43d3c53c4c2849ba826da4789c08ad98.ahmed.25682.long' started, version 0.12.0
+23:31:38 *** Listening on long...
+23:31:38 Cleaning registries for queue: long
+23:31:38 RQ worker 'rq:worker:26b99c8d04ab41158c4cc00966c4a855.ahmed.25679.short' started, version 0.12.0
+23:31:38 *** Listening on short...
+23:31:38 Cleaning registries for queue: short
+23:42:29 Warm shut down requested
+23:42:29 Warm shut down requested
+23:42:29 Warm shut down requested
+23:42:44 RQ worker 'rq:worker:b319362f79044ac9bbb4e3bdb9644d15.ahmed.26270.default' started, version 0.12.0
+23:42:44 *** Listening on default...
+23:42:44 Cleaning registries for queue: default
+23:42:44 RQ worker 'rq:worker:6c71c912bf334601ac7ad0cc03329eea.ahmed.26271.short' started, version 0.12.0
+23:42:44 *** Listening on short...
+23:42:44 Cleaning registries for queue: short
+23:42:44 RQ worker 'rq:worker:cd18f77371a141d6a5a63e8668bd00db.ahmed.26275.long' started, version 0.12.0
+23:42:44 *** Listening on long...
+23:42:44 Cleaning registries for queue: long
+23:47:39 Warm shut down requested
+23:47:39 Warm shut down requested
+23:47:39 Warm shut down requested
+23:47:44 RQ worker 'rq:worker:2910a370caf248c3b077f73e659249e9.ahmed.26721.short' started, version 0.12.0
+23:47:44 *** Listening on short...
+23:47:44 Cleaning registries for queue: short
+23:47:44 RQ worker 'rq:worker:80ed6d4e7490413e8f7966a0a2412678.ahmed.26720.default' started, version 0.12.0
+23:47:44 *** Listening on default...
+23:47:44 Cleaning registries for queue: default
+23:47:44 RQ worker 'rq:worker:314387d516d6488084a6664a6cfcaa01.ahmed.26722.long' started, version 0.12.0
+23:47:44 *** Listening on long...
+23:47:44 Cleaning registries for queue: long
+23:49:57 Warm shut down requested
+23:49:57 Warm shut down requested
+23:49:57 Warm shut down requested
+23:51:21 RQ worker 'rq:worker:1530782153434aff8c22c53c5ea61530.ahmed.2080.default' started, version 0.12.0
+23:51:21 *** Listening on default...
+23:51:21 Cleaning registries for queue: default
+23:51:21 RQ worker 'rq:worker:4443621fe4fa459aab6c93f280fda2b0.ahmed.2083.short' started, version 0.12.0
+23:51:21 *** Listening on short...
+23:51:21 Cleaning registries for queue: short
+23:51:21 RQ worker 'rq:worker:7fae8257842741f68c2b5db11d36cef3.ahmed.2084.long' started, version 0.12.0
+23:51:21 *** Listening on long...
+23:51:21 Cleaning registries for queue: long
+00:10:50 Warm shut down requested
+00:10:50 Warm shut down requested
+00:10:50 Warm shut down requested
+22:14:02 RQ worker 'rq:worker:3ae5a38836d64f9d8998d1bec465aaf5.ahmed.1571.default' started, version 0.12.0
+22:14:02 *** Listening on default...
+22:14:02 Cleaning registries for queue: default
+22:14:02 RQ worker 'rq:worker:68eaf4c4e4b1436dbfbf9579bf472541.ahmed.1572.short' started, version 0.12.0
+22:14:02 *** Listening on short...
+22:14:02 Cleaning registries for queue: short
+22:14:02 RQ worker 'rq:worker:79706d883f0e4fdcaa3fba29a01ce2a2.ahmed.1573.long' started, version 0.12.0
+22:14:02 *** Listening on long...
+22:14:02 Cleaning registries for queue: long
+22:15:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.queue.flush', kwargs={}, method='frappe.email.queue.flush', site='innovast', user='Administrator') (8a04c20e-f745-4d2f-b169-8f4389d5ae5a)
+22:15:04 short: Job OK (8a04c20e-f745-4d2f-b169-8f4389d5ae5a)
+22:15:04 Result is kept for 500 seconds
+22:15:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.pull', kwargs={}, method='frappe.email.doctype.email_account.email_account.pull', site='innovast', user='Administrator') (0147cba1-f220-4e90-b010-dc5fd5e4e449)
+22:15:05 short: Job OK (0147cba1-f220-4e90-b010-dc5fd5e4e449)
+22:15:05 Result is kept for 500 seconds
+22:15:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method='frappe.email.doctype.email_account.email_account.notify_unreplied', site='innovast', user='Administrator') (b098ec73-923a-45cd-b756-2bc2ee1e4c1b)
+22:15:05 short: Job OK (b098ec73-923a-45cd-b756-2bc2ee1e4c1b)
+22:15:05 Result is kept for 500 seconds
+22:15:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.oauth.delete_oauth2_data', kwargs={}, method='frappe.oauth.delete_oauth2_data', site='innovast', user='Administrator') (4f8a53fe-2925-47aa-84c3-a89668f0d884)
+22:15:05 short: Job OK (4f8a53fe-2925-47aa-84c3-a89668f0d884)
+22:15:05 Result is kept for 500 seconds
+22:15:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site='innovast', user='Administrator') (9aea16b6-74f5-4e8d-b8c5-61bb7becf602)
+22:15:05 short: Job OK (9aea16b6-74f5-4e8d-b8c5-61bb7becf602)
+22:15:05 Result is kept for 500 seconds
+22:15:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.twofactor.delete_all_barcodes_for_users', kwargs={}, method='frappe.twofactor.delete_all_barcodes_for_users', site='innovast', user='Administrator') (81732be9-d364-4349-8485-64941b21f858)
+22:15:05 short: Job OK (81732be9-d364-4349-8485-64941b21f858)
+22:15:05 Result is kept for 500 seconds
+22:15:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.website.doctype.web_page.web_page.check_publish_status', kwargs={}, method='frappe.website.doctype.web_page.web_page.check_publish_status', site='innovast', user='Administrator') (946196e9-16a8-462d-a688-879b207f9670)
+22:15:06 short: Job OK (946196e9-16a8-462d-a688-879b207f9670)
+22:15:06 Result is kept for 500 seconds
+22:15:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.utils.global_search.sync_global_search', kwargs={}, method='frappe.utils.global_search.sync_global_search', site='innovast', user='Administrator') (d1e5ab23-ab71-48d7-8a24-d42ba5f03128)
+22:15:06 short: Job OK (d1e5ab23-ab71-48d7-8a24-d42ba5f03128)
+22:15:06 Result is kept for 500 seconds
+22:15:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.monitor.flush', kwargs={}, method='frappe.monitor.flush', site='innovast', user='Administrator') (f878144f-0e23-4dbb-9a9a-b4087234459d)
+22:15:06 short: Job OK (f878144f-0e23-4dbb-9a9a-b4087234459d)
+22:15:06 Result is kept for 500 seconds
+22:15:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.projects.doctype.project.project.project_status_update_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.project_status_update_reminder', site='innovast', user='Administrator') (f9f4234a-a035-4eaf-8b1e-57a97347c9c5)
+22:15:07 short: Job OK (f9f4234a-a035-4eaf-8b1e-57a97347c9c5)
+22:15:07 Result is kept for 500 seconds
+22:15:07 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', kwargs={}, method='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', site='innovast', user='Administrator') (91a3d609-f14f-49ec-a15f-420cffcabce6)
+22:15:07 short: Job OK (91a3d609-f14f-49ec-a15f-420cffcabce6)
+22:15:07 Result is kept for 500 seconds
+22:15:07 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.model.utils.link_count.update_link_count', kwargs={}, method='frappe.model.utils.link_count.update_link_count', site='innovast', user='Administrator') (b1ede84f-b8ef-489b-a576-5727088bea55)
+22:15:07 short: Job OK (b1ede84f-b8ef-489b-a576-5727088bea55)
+22:15:07 Result is kept for 500 seconds
+22:15:07 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.model.utils.user_settings.sync_user_settings', kwargs={}, method='frappe.model.utils.user_settings.sync_user_settings', site='innovast', user='Administrator') (7da9a717-64f2-4b06-9c57-aef81f716118)
+22:15:07 short: Job OK (7da9a717-64f2-4b06-9c57-aef81f716118)
+22:15:07 Result is kept for 500 seconds
+22:15:07 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.utils.error.collect_error_snapshots', kwargs={}, method='frappe.utils.error.collect_error_snapshots', site='innovast', user='Administrator') (f2be1eb1-ab7e-4969-96bc-72f9c427d99a)
+22:15:07 short: Job OK (f2be1eb1-ab7e-4969-96bc-72f9c427d99a)
+22:15:07 Result is kept for 500 seconds
+22:15:07 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.desk.page.backups.backups.delete_downloadable_backups', kwargs={}, method='frappe.desk.page.backups.backups.delete_downloadable_backups', site='innovast', user='Administrator') (82532250-f743-410f-a521-bf8230117430)
+22:15:07 short: Job OK (82532250-f743-410f-a521-bf8230117430)
+22:15:07 Result is kept for 500 seconds
+22:15:07 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.deferred_insert.save_to_db', kwargs={}, method='frappe.deferred_insert.save_to_db', site='innovast', user='Administrator') (4f069119-7602-47ff-8f01-994c76b22c59)
+22:15:07 short: Job OK (4f069119-7602-47ff-8f01-994c76b22c59)
+22:15:07 Result is kept for 500 seconds
+22:15:07 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.desk.form.document_follow.send_hourly_updates', kwargs={}, method='frappe.desk.form.document_follow.send_hourly_updates', site='innovast', user='Administrator') (e741483d-b932-4631-81ee-5b8f5f306471)
+22:15:07 short: Job OK (e741483d-b932-4631-81ee-5b8f5f306471)
+22:15:07 Result is kept for 500 seconds
+22:15:07 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.integrations.doctype.google_calendar.google_calendar.sync', kwargs={}, method='frappe.integrations.doctype.google_calendar.google_calendar.sync', site='innovast', user='Administrator') (aa85f308-fb89-41db-a23d-e9d9f90562f5)
+22:15:08 short: Job OK (aa85f308-fb89-41db-a23d-e9d9f90562f5)
+22:15:08 Result is kept for 500 seconds
+22:15:08 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails', kwargs={}, method='erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails', site='innovast', user='Administrator') (67c1e159-b7fc-48a3-87b4-d137605536d6)
+22:15:08 short: Job OK (67c1e159-b7fc-48a3-87b4-d137605536d6)
+22:15:08 Result is kept for 500 seconds
+22:15:08 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.accounts.doctype.subscription.subscription.process_all', kwargs={}, method='erpnext.accounts.doctype.subscription.subscription.process_all', site='innovast', user='Administrator') (a52bf09b-d765-4fc8-ba78-ba477715dec4)
+22:15:08 short: Job OK (a52bf09b-d765-4fc8-ba78-ba477715dec4)
+22:15:08 Result is kept for 500 seconds
+22:15:08 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details', kwargs={}, method='erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details', site='innovast', user='Administrator') (0e72ae5b-c22d-4c28-96f1-44fc0ff4fd7b)
+22:15:09 short: Job OK (0e72ae5b-c22d-4c28-96f1-44fc0ff4fd7b)
+22:15:09 Result is kept for 500 seconds
+22:15:09 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs', kwargs={}, method='erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs', site='innovast', user='Administrator') (3164968c-1606-4aae-be77-72ddcc71e09d)
+22:15:09 short: Job OK (3164968c-1606-4aae-be77-72ddcc71e09d)
+22:15:09 Result is kept for 500 seconds
+22:15:09 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization', kwargs={}, method='erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization', site='innovast', user='Administrator') (26452e33-908b-4fda-a70c-b64d6f4d5927)
+22:15:09 short: Job OK (26452e33-908b-4fda-a70c-b64d6f4d5927)
+22:15:09 Result is kept for 500 seconds
+22:15:09 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.projects.doctype.project.project.hourly_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.hourly_reminder', site='innovast', user='Administrator') (837874de-87ee-434f-a596-cba29aa4020f)
+22:15:09 short: Job OK (837874de-87ee-434f-a596-cba29aa4020f)
+22:15:09 Result is kept for 500 seconds
+22:15:09 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.projects.doctype.project.project.collect_project_status', kwargs={}, method='erpnext.projects.doctype.project.project.collect_project_status', site='innovast', user='Administrator') (1340a221-97fa-44c3-80dc-05ef64a1283b)
+22:15:10 short: Job OK (1340a221-97fa-44c3-80dc-05ef64a1283b)
+22:15:10 Result is kept for 500 seconds
+22:15:10 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts', kwargs={}, method='erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts', site='innovast', user='Administrator') (b935afaa-ed0d-4fa6-9423-2533fe50bbc2)
+22:15:10 short: Job OK (b935afaa-ed0d-4fa6-9423-2533fe50bbc2)
+22:15:10 Result is kept for 500 seconds
+22:15:10 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.support.doctype.issue.issue.set_service_level_agreement_variance', kwargs={}, method='erpnext.support.doctype.issue.issue.set_service_level_agreement_variance', site='innovast', user='Administrator') (63d62523-2c79-40a7-a6bc-2ee59fcb1817)
+22:15:10 short: Job OK (63d62523-2c79-40a7-a6bc-2ee59fcb1817)
+22:15:10 Result is kept for 500 seconds
+22:16:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.queue.flush', kwargs={}, method='frappe.email.queue.flush', site='innovast', user='Administrator') (a1e8559a-8f13-45d3-b367-1b3b43404b62)
+22:16:04 short: Job OK (a1e8559a-8f13-45d3-b367-1b3b43404b62)
+22:16:04 Result is kept for 500 seconds
+22:16:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.pull', kwargs={}, method='frappe.email.doctype.email_account.email_account.pull', site='innovast', user='Administrator') (ebe57d52-b4b7-4477-9e02-cc46b1fce75b)
+22:16:04 short: Job OK (ebe57d52-b4b7-4477-9e02-cc46b1fce75b)
+22:16:04 Result is kept for 500 seconds
+22:16:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method='frappe.email.doctype.email_account.email_account.notify_unreplied', site='innovast', user='Administrator') (fb09b7b4-3cc7-423f-b4e7-a06bd38385bd)
+22:16:04 short: Job OK (fb09b7b4-3cc7-423f-b4e7-a06bd38385bd)
+22:16:04 Result is kept for 500 seconds
+22:16:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.oauth.delete_oauth2_data', kwargs={}, method='frappe.oauth.delete_oauth2_data', site='innovast', user='Administrator') (cc3dde59-acd7-406d-890a-3c4560d29395)
+22:16:04 short: Job OK (cc3dde59-acd7-406d-890a-3c4560d29395)
+22:16:04 Result is kept for 500 seconds
+22:16:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site='innovast', user='Administrator') (9c895aef-3d95-4529-8ea6-bd93ea8b22a9)
+22:16:04 short: Job OK (9c895aef-3d95-4529-8ea6-bd93ea8b22a9)
+22:16:04 Result is kept for 500 seconds
+22:16:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.twofactor.delete_all_barcodes_for_users', kwargs={}, method='frappe.twofactor.delete_all_barcodes_for_users', site='innovast', user='Administrator') (108380fc-e6a3-4953-a3f1-a05ce43d1d37)
+22:16:04 short: Job OK (108380fc-e6a3-4953-a3f1-a05ce43d1d37)
+22:16:04 Result is kept for 500 seconds
+22:16:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.website.doctype.web_page.web_page.check_publish_status', kwargs={}, method='frappe.website.doctype.web_page.web_page.check_publish_status', site='innovast', user='Administrator') (a423e5ca-2bab-496f-8d36-29c711ac33ed)
+22:16:04 short: Job OK (a423e5ca-2bab-496f-8d36-29c711ac33ed)
+22:16:04 Result is kept for 500 seconds
+22:16:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.utils.global_search.sync_global_search', kwargs={}, method='frappe.utils.global_search.sync_global_search', site='innovast', user='Administrator') (c87c12fb-1339-453a-a1f1-b2f09454464a)
+22:16:04 short: Job OK (c87c12fb-1339-453a-a1f1-b2f09454464a)
+22:16:04 Result is kept for 500 seconds
+22:16:04 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.monitor.flush', kwargs={}, method='frappe.monitor.flush', site='innovast', user='Administrator') (f38a5e99-8f9b-4021-91ee-36f234530e89)
+22:16:05 short: Job OK (f38a5e99-8f9b-4021-91ee-36f234530e89)
+22:16:05 Result is kept for 500 seconds
+22:16:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.projects.doctype.project.project.project_status_update_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.project_status_update_reminder', site='innovast', user='Administrator') (69cd24b8-130a-4572-a4c3-a7206f291448)
+22:16:05 short: Job OK (69cd24b8-130a-4572-a4c3-a7206f291448)
+22:16:05 Result is kept for 500 seconds
+22:16:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', kwargs={}, method='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', site='innovast', user='Administrator') (4014aa81-36a9-4eea-b259-2b5f76042629)
+22:16:05 short: Job OK (4014aa81-36a9-4eea-b259-2b5f76042629)
+22:16:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.queue.flush', kwargs={}, method='frappe.email.queue.flush', site='innovast', user='Administrator') (ecc7b337-1301-4191-bf12-eac1681cc453)
+22:20:05 short: Job OK (ecc7b337-1301-4191-bf12-eac1681cc453)
+22:20:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.pull', kwargs={}, method='frappe.email.doctype.email_account.email_account.pull', site='innovast', user='Administrator') (1a9e7584-5d4b-46aa-abb9-b3d9c6235508)
+22:20:05 short: Job OK (1a9e7584-5d4b-46aa-abb9-b3d9c6235508)
+22:20:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method='frappe.email.doctype.email_account.email_account.notify_unreplied', site='innovast', user='Administrator') (e8a1527d-7504-48c9-ba98-0ada8b38e779)
+22:20:05 short: Job OK (e8a1527d-7504-48c9-ba98-0ada8b38e779)
+22:20:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.oauth.delete_oauth2_data', kwargs={}, method='frappe.oauth.delete_oauth2_data', site='innovast', user='Administrator') (6d9eed4c-9892-4e2e-bfc8-5869bc983f82)
+22:20:05 short: Job OK (6d9eed4c-9892-4e2e-bfc8-5869bc983f82)
+22:20:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site='innovast', user='Administrator') (5391ba6a-82ba-4d37-aeea-8224b1ebec15)
+22:20:05 short: Job OK (5391ba6a-82ba-4d37-aeea-8224b1ebec15)
+22:20:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.twofactor.delete_all_barcodes_for_users', kwargs={}, method='frappe.twofactor.delete_all_barcodes_for_users', site='innovast', user='Administrator') (2e3b0e73-cef5-46bd-847c-2d1fe8323b3f)
+22:20:05 short: Job OK (2e3b0e73-cef5-46bd-847c-2d1fe8323b3f)
+22:20:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.website.doctype.web_page.web_page.check_publish_status', kwargs={}, method='frappe.website.doctype.web_page.web_page.check_publish_status', site='innovast', user='Administrator') (ca9098b2-501a-4e58-92f1-528012e83abf)
+22:20:05 short: Job OK (ca9098b2-501a-4e58-92f1-528012e83abf)
+22:20:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.utils.global_search.sync_global_search', kwargs={}, method='frappe.utils.global_search.sync_global_search', site='innovast', user='Administrator') (3f855751-01f7-4da0-9715-525c441a329a)
+22:20:05 short: Job OK (3f855751-01f7-4da0-9715-525c441a329a)
+22:20:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.monitor.flush', kwargs={}, method='frappe.monitor.flush', site='innovast', user='Administrator') (06571ef4-63c1-411d-bc2e-65bb252f0f39)
+22:20:05 short: Job OK (06571ef4-63c1-411d-bc2e-65bb252f0f39)
+22:20:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.projects.doctype.project.project.project_status_update_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.project_status_update_reminder', site='innovast', user='Administrator') (df6eebf5-0e27-48df-9659-f438eebfeda9)
+22:20:05 short: Job OK (df6eebf5-0e27-48df-9659-f438eebfeda9)
+22:20:05 Result is kept for 500 seconds
+22:20:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', kwargs={}, method='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', site='innovast', user='Administrator') (239d58e1-6d7f-4a00-8aca-e1b17c8fecaf)
+22:20:05 short: Job OK (239d58e1-6d7f-4a00-8aca-e1b17c8fecaf)
+22:20:05 Result is kept for 500 seconds
+22:24:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.queue.flush', kwargs={}, method='frappe.email.queue.flush', site='innovast', user='Administrator') (a36f9f99-fd70-4984-8930-ab029bea4c93)
+22:24:05 short: Job OK (a36f9f99-fd70-4984-8930-ab029bea4c93)
+22:24:05 Result is kept for 500 seconds
+22:24:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.pull', kwargs={}, method='frappe.email.doctype.email_account.email_account.pull', site='innovast', user='Administrator') (99a45f13-a73f-43f0-bb0e-a9721d41ac5d)
+22:24:05 short: Job OK (99a45f13-a73f-43f0-bb0e-a9721d41ac5d)
+22:24:05 Result is kept for 500 seconds
+22:24:05 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method='frappe.email.doctype.email_account.email_account.notify_unreplied', site='innovast', user='Administrator') (fc8d6148-c3a3-441b-aac9-1072ab9eb731)
+22:24:06 short: Job OK (fc8d6148-c3a3-441b-aac9-1072ab9eb731)
+22:24:06 Result is kept for 500 seconds
+22:24:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.oauth.delete_oauth2_data', kwargs={}, method='frappe.oauth.delete_oauth2_data', site='innovast', user='Administrator') (96d77ac3-a511-481d-b347-a090f2843a44)
+22:24:06 short: Job OK (96d77ac3-a511-481d-b347-a090f2843a44)
+22:24:06 Result is kept for 500 seconds
+22:24:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site='innovast', user='Administrator') (fa83bb71-f275-43d4-8488-8d40db24d86d)
+22:24:06 short: Job OK (fa83bb71-f275-43d4-8488-8d40db24d86d)
+22:24:06 Result is kept for 500 seconds
+22:24:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.twofactor.delete_all_barcodes_for_users', kwargs={}, method='frappe.twofactor.delete_all_barcodes_for_users', site='innovast', user='Administrator') (677db032-695a-4614-acbd-e479e0a7fee3)
+22:24:06 short: Job OK (677db032-695a-4614-acbd-e479e0a7fee3)
+22:24:06 Result is kept for 500 seconds
+22:24:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.website.doctype.web_page.web_page.check_publish_status', kwargs={}, method='frappe.website.doctype.web_page.web_page.check_publish_status', site='innovast', user='Administrator') (08a09383-d119-44ff-a1d1-3578d83aeed9)
+22:24:06 short: Job OK (08a09383-d119-44ff-a1d1-3578d83aeed9)
+22:24:06 Result is kept for 500 seconds
+22:24:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.utils.global_search.sync_global_search', kwargs={}, method='frappe.utils.global_search.sync_global_search', site='innovast', user='Administrator') (d2b9a668-49ea-49aa-8697-0a8e4f0ba74d)
+22:24:06 short: Job OK (d2b9a668-49ea-49aa-8697-0a8e4f0ba74d)
+22:24:06 Result is kept for 500 seconds
+22:24:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.monitor.flush', kwargs={}, method='frappe.monitor.flush', site='innovast', user='Administrator') (426d4446-a33d-4056-8b7e-e94b335856b8)
+22:24:06 short: Job OK (426d4446-a33d-4056-8b7e-e94b335856b8)
+22:24:06 Result is kept for 500 seconds
+22:24:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.projects.doctype.project.project.project_status_update_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.project_status_update_reminder', site='innovast', user='Administrator') (4bdfacc0-8675-4abf-9d1a-5e3633d3e035)
+22:24:06 short: Job OK (4bdfacc0-8675-4abf-9d1a-5e3633d3e035)
+22:24:06 Result is kept for 500 seconds
+22:24:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', kwargs={}, method='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', site='innovast', user='Administrator') (e19fefb0-96c9-4ccc-b71b-3de4b7af9eb2)
+22:24:06 short: Job OK (e19fefb0-96c9-4ccc-b71b-3de4b7af9eb2)
+22:24:06 Result is kept for 500 seconds
+22:28:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.queue.flush', kwargs={}, method='frappe.email.queue.flush', site='innovast', user='Administrator') (1b31f349-d637-43df-a381-65e271b731da)
+22:28:06 short: Job OK (1b31f349-d637-43df-a381-65e271b731da)
+22:28:06 Result is kept for 500 seconds
+22:28:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.pull', kwargs={}, method='frappe.email.doctype.email_account.email_account.pull', site='innovast', user='Administrator') (2785eb3e-dcea-4876-903b-a30983106ec8)
+22:28:06 short: Job OK (2785eb3e-dcea-4876-903b-a30983106ec8)
+22:28:06 Result is kept for 500 seconds
+22:28:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method='frappe.email.doctype.email_account.email_account.notify_unreplied', site='innovast', user='Administrator') (9a7c4005-a3ca-41c8-ad3b-f2d221bc770c)
+22:28:06 short: Job OK (9a7c4005-a3ca-41c8-ad3b-f2d221bc770c)
+22:28:06 Result is kept for 500 seconds
+22:28:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.oauth.delete_oauth2_data', kwargs={}, method='frappe.oauth.delete_oauth2_data', site='innovast', user='Administrator') (521453c9-1fb0-42ac-96a3-d3af070bb544)
+22:28:06 short: Job OK (521453c9-1fb0-42ac-96a3-d3af070bb544)
+22:28:06 Result is kept for 500 seconds
+22:28:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site='innovast', user='Administrator') (513f1559-8910-4133-a9d0-534eccf2334d)
+22:28:06 short: Job OK (513f1559-8910-4133-a9d0-534eccf2334d)
+22:28:06 Result is kept for 500 seconds
+22:28:06 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.twofactor.delete_all_barcodes_for_users', kwargs={}, method='frappe.twofactor.delete_all_barcodes_for_users', site='innovast', user='Administrator') (6f438e7a-46fc-47ce-9215-30dcbb6a273b)
+22:28:06 short: Job OK (6f438e7a-46fc-47ce-9215-30dcbb6a273b)
+22:28:06 Result is kept for 500 seconds
+22:28:07 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.website.doctype.web_page.web_page.check_publish_status', kwargs={}, method='frappe.website.doctype.web_page.web_page.check_publish_status', site='innovast', user='Administrator') (8248f250-89bb-4a3e-aa0f-2c60b926de7d)
+22:28:07 short: Job OK (8248f250-89bb-4a3e-aa0f-2c60b926de7d)
+22:28:07 Result is kept for 500 seconds
+22:28:07 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.utils.global_search.sync_global_search', kwargs={}, method='frappe.utils.global_search.sync_global_search', site='innovast', user='Administrator') (75cf797b-384f-450f-84df-56a81caa31bf)
+22:28:07 short: Job OK (75cf797b-384f-450f-84df-56a81caa31bf)
+22:28:07 Result is kept for 500 seconds
+22:28:07 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.monitor.flush', kwargs={}, method='frappe.monitor.flush', site='innovast', user='Administrator') (673d95fb-74d5-4fbe-a300-ed4dd5df268d)
+22:28:07 short: Job OK (673d95fb-74d5-4fbe-a300-ed4dd5df268d)
+22:28:07 Result is kept for 500 seconds
+22:28:07 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.projects.doctype.project.project.project_status_update_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.project_status_update_reminder', site='innovast', user='Administrator') (833ee145-9e78-4063-be65-dfa98a5c4fb2)
+22:28:07 short: Job OK (833ee145-9e78-4063-be65-dfa98a5c4fb2)
+22:28:07 Result is kept for 500 seconds
+22:28:07 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', kwargs={}, method='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', site='innovast', user='Administrator') (d65550a2-dda1-481a-b09e-67924258fc1c)
+22:28:07 short: Job OK (d65550a2-dda1-481a-b09e-67924258fc1c)
+22:28:07 Result is kept for 500 seconds
+17:47:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.queue.flush', kwargs={}, method='frappe.email.queue.flush', site='innovast', user='Administrator') (957eea57-2c5b-4a70-903e-02b9c3004ee6)
+17:47:46 long: frappe.utils.background_jobs.execute_job(event='daily_long', is_async=True, job_name='frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily', kwargs={}, method='frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily', site='innovast', user='Administrator') (a08ae2fe-b160-4a17-a58f-e8aa562fd857)
+17:47:46 short: Job OK (957eea57-2c5b-4a70-903e-02b9c3004ee6)
+17:47:46 Result is kept for 500 seconds
+17:47:46 Cleaning registries for queue: short
+17:47:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.pull', kwargs={}, method='frappe.email.doctype.email_account.email_account.pull', site='innovast', user='Administrator') (280929c0-0df8-48c7-a58b-8b2cdb137bb2)
+17:47:46 short: Job OK (280929c0-0df8-48c7-a58b-8b2cdb137bb2)
+17:47:46 Result is kept for 500 seconds
+17:47:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method='frappe.email.doctype.email_account.email_account.notify_unreplied', site='innovast', user='Administrator') (fa4879e8-ca89-49ed-b345-297c15cb8196)
+17:47:46 short: Job OK (fa4879e8-ca89-49ed-b345-297c15cb8196)
+17:47:46 Result is kept for 500 seconds
+17:47:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.oauth.delete_oauth2_data', kwargs={}, method='frappe.oauth.delete_oauth2_data', site='innovast', user='Administrator') (a316a4ed-abf3-441e-ab50-3f3defd9f4ee)
+17:47:46 short: Job OK (a316a4ed-abf3-441e-ab50-3f3defd9f4ee)
+17:47:46 Result is kept for 500 seconds
+17:47:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site='innovast', user='Administrator') (0b88feb2-272e-496c-96a2-2c244c3540bc)
+17:47:46 short: Job OK (0b88feb2-272e-496c-96a2-2c244c3540bc)
+17:47:46 Result is kept for 500 seconds
+17:47:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.twofactor.delete_all_barcodes_for_users', kwargs={}, method='frappe.twofactor.delete_all_barcodes_for_users', site='innovast', user='Administrator') (30422f1e-4a5d-459d-8396-5f41d6e83eb3)
+17:47:46 short: Job OK (30422f1e-4a5d-459d-8396-5f41d6e83eb3)
+17:47:46 Result is kept for 500 seconds
+17:47:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.website.doctype.web_page.web_page.check_publish_status', kwargs={}, method='frappe.website.doctype.web_page.web_page.check_publish_status', site='innovast', user='Administrator') (9293d719-fb8c-4401-a835-f5a2767df843)
+17:47:46 short: Job OK (9293d719-fb8c-4401-a835-f5a2767df843)
+17:47:46 Result is kept for 500 seconds
+17:47:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.utils.global_search.sync_global_search', kwargs={}, method='frappe.utils.global_search.sync_global_search', site='innovast', user='Administrator') (2601f2ea-0a44-40ec-a07e-74c0b668ee8d)
+17:47:46 short: Job OK (2601f2ea-0a44-40ec-a07e-74c0b668ee8d)
+17:47:46 Result is kept for 500 seconds
+17:47:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.monitor.flush', kwargs={}, method='frappe.monitor.flush', site='innovast', user='Administrator') (ac01a4ac-913e-4211-93a6-50127033872b)
+17:47:47 short: Job OK (ac01a4ac-913e-4211-93a6-50127033872b)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.projects.doctype.project.project.project_status_update_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.project_status_update_reminder', site='innovast', user='Administrator') (bf17c40e-4a1c-48d4-b45a-1ccac4be38e0)
+17:47:47 short: Job OK (bf17c40e-4a1c-48d4-b45a-1ccac4be38e0)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', kwargs={}, method='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', site='innovast', user='Administrator') (4a3ee265-8402-4d1d-8a42-f18e5dcf7858)
+17:47:47 short: Job OK (4a3ee265-8402-4d1d-8a42-f18e5dcf7858)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.model.utils.link_count.update_link_count', kwargs={}, method='frappe.model.utils.link_count.update_link_count', site='innovast', user='Administrator') (eb725c2b-dd69-49c0-a567-8d5bf3e47474)
+17:47:47 short: Job OK (eb725c2b-dd69-49c0-a567-8d5bf3e47474)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.model.utils.user_settings.sync_user_settings', kwargs={}, method='frappe.model.utils.user_settings.sync_user_settings', site='innovast', user='Administrator') (bb9ec645-205f-4f88-b790-8719605942f4)
+17:47:47 short: Job OK (bb9ec645-205f-4f88-b790-8719605942f4)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.utils.error.collect_error_snapshots', kwargs={}, method='frappe.utils.error.collect_error_snapshots', site='innovast', user='Administrator') (13e04d93-d358-423b-889c-c182253ff5ee)
+17:47:47 short: Job OK (13e04d93-d358-423b-889c-c182253ff5ee)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.desk.page.backups.backups.delete_downloadable_backups', kwargs={}, method='frappe.desk.page.backups.backups.delete_downloadable_backups', site='innovast', user='Administrator') (e2562d93-9f99-47d9-9d98-dc66ea9dbf8e)
+17:47:47 short: Job OK (e2562d93-9f99-47d9-9d98-dc66ea9dbf8e)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.deferred_insert.save_to_db', kwargs={}, method='frappe.deferred_insert.save_to_db', site='innovast', user='Administrator') (24bf2023-a437-4313-bddc-c1b4e19fa19f)
+17:47:47 short: Job OK (24bf2023-a437-4313-bddc-c1b4e19fa19f)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.desk.form.document_follow.send_hourly_updates', kwargs={}, method='frappe.desk.form.document_follow.send_hourly_updates', site='innovast', user='Administrator') (90c1b7b8-8782-4b96-aa47-672148d8e54f)
+17:47:47 short: Job OK (90c1b7b8-8782-4b96-aa47-672148d8e54f)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='frappe.integrations.doctype.google_calendar.google_calendar.sync', kwargs={}, method='frappe.integrations.doctype.google_calendar.google_calendar.sync', site='innovast', user='Administrator') (af446f22-3c51-4d6c-9763-7ff688b5ff89)
+17:47:47 short: Job OK (af446f22-3c51-4d6c-9763-7ff688b5ff89)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails', kwargs={}, method='erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails', site='innovast', user='Administrator') (931803f1-f0da-4b8c-b36b-e55f9f1d4036)
+17:47:47 short: Job OK (931803f1-f0da-4b8c-b36b-e55f9f1d4036)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.accounts.doctype.subscription.subscription.process_all', kwargs={}, method='erpnext.accounts.doctype.subscription.subscription.process_all', site='innovast', user='Administrator') (140773e1-8690-44b2-86ca-a656948ed47b)
+17:47:47 short: Job OK (140773e1-8690-44b2-86ca-a656948ed47b)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details', kwargs={}, method='erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details', site='innovast', user='Administrator') (eb87c6c3-8051-42cf-abda-14410df97228)
+17:47:47 short: Job OK (eb87c6c3-8051-42cf-abda-14410df97228)
+17:47:47 Result is kept for 500 seconds
+17:47:47 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs', kwargs={}, method='erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs', site='innovast', user='Administrator') (8c6492e4-d2c2-49fd-8144-14e14ce62f51)
+17:47:48 short: Job OK (8c6492e4-d2c2-49fd-8144-14e14ce62f51)
+17:47:48 Result is kept for 500 seconds
+17:47:48 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization', kwargs={}, method='erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization', site='innovast', user='Administrator') (44af05ac-29b1-4a8f-aff9-623465190508)
+17:47:48 short: Job OK (44af05ac-29b1-4a8f-aff9-623465190508)
+17:47:48 Result is kept for 500 seconds
+17:47:48 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.projects.doctype.project.project.hourly_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.hourly_reminder', site='innovast', user='Administrator') (b36ee403-3afa-48e5-854d-592feab3cbb5)
+17:47:48 short: Job OK (b36ee403-3afa-48e5-854d-592feab3cbb5)
+17:47:48 Result is kept for 500 seconds
+17:47:48 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.projects.doctype.project.project.collect_project_status', kwargs={}, method='erpnext.projects.doctype.project.project.collect_project_status', site='innovast', user='Administrator') (514f4dbd-795c-496c-bbf8-11902bb0b375)
+17:47:48 short: Job OK (514f4dbd-795c-496c-bbf8-11902bb0b375)
+17:47:48 Result is kept for 500 seconds
+17:47:48 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts', kwargs={}, method='erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts', site='innovast', user='Administrator') (d2ebf652-1b4a-4ad6-9786-b9ca1f8ddc6f)
+17:47:48 short: Job OK (d2ebf652-1b4a-4ad6-9786-b9ca1f8ddc6f)
+17:47:48 Result is kept for 500 seconds
+17:47:48 short: frappe.utils.background_jobs.execute_job(event='hourly', is_async=True, job_name='erpnext.support.doctype.issue.issue.set_service_level_agreement_variance', kwargs={}, method='erpnext.support.doctype.issue.issue.set_service_level_agreement_variance', site='innovast', user='Administrator') (63439d9a-dce5-4e14-b602-a10471c0da78)
+17:47:48 short: Job OK (63439d9a-dce5-4e14-b602-a10471c0da78)
+17:47:48 Result is kept for 500 seconds
+17:47:48 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.email.queue.clear_outbox', kwargs={}, method='frappe.email.queue.clear_outbox', site='innovast', user='Administrator') (4726cfa2-da5c-4168-99c4-faf32b3b9052)
+17:47:48 short: Job OK (4726cfa2-da5c-4168-99c4-faf32b3b9052)
+17:47:48 Result is kept for 500 seconds
+17:47:48 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.desk.notifications.clear_notifications', kwargs={}, method='frappe.desk.notifications.clear_notifications', site='innovast', user='Administrator') (d1752dfa-a291-4abc-ba2a-589eaf513816)
+17:47:48 long: Job OK (a08ae2fe-b160-4a17-a58f-e8aa562fd857)
+17:47:48 Result is kept for 500 seconds
+17:47:48 Cleaning registries for queue: long
+17:47:48 long: frappe.utils.background_jobs.execute_job(event='daily_long', is_async=True, job_name='frappe.utils.change_log.check_for_update', kwargs={}, method='frappe.utils.change_log.check_for_update', site='innovast', user='Administrator') (ee068529-77a5-4b51-a1bb-972b24150d1e)
+17:47:49 short: Job OK (d1752dfa-a291-4abc-ba2a-589eaf513816)
+17:47:49 Result is kept for 500 seconds
+17:47:49 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.core.doctype.error_log.error_log.set_old_logs_as_seen', kwargs={}, method='frappe.core.doctype.error_log.error_log.set_old_logs_as_seen', site='innovast', user='Administrator') (38adb9dd-9599-47de-b9d5-2722cf6e1c98)
+17:47:50 short: Job OK (38adb9dd-9599-47de-b9d5-2722cf6e1c98)
+17:47:50 Result is kept for 500 seconds
+17:47:50 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.desk.doctype.event.event.send_event_digest', kwargs={}, method='frappe.desk.doctype.event.event.send_event_digest', site='innovast', user='Administrator') (ac87547e-17e1-44a6-b9cf-8634682d9384)
+17:47:50 short: Job OK (ac87547e-17e1-44a6-b9cf-8634682d9384)
+17:47:50 Result is kept for 500 seconds
+17:47:50 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.sessions.clear_expired_sessions', kwargs={}, method='frappe.sessions.clear_expired_sessions', site='innovast', user='Administrator') (5697e4b5-8d8b-485c-9a92-5696e4e8ce02)
+17:47:53 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/frappe/frappe/releases (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fc853371cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connection.py", line 156, in _new_conn
+    conn = connection.create_connection(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.8/socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connection.py", line 300, in connect
+    conn = self._new_conn()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connection.py", line 168, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x7fc853371cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/frappe/frappe/releases (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fc853371cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 793, in perform_job
+    rv = job.perform()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/job.py", line 599, in perform
+    self._result = self._execute()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/job.py", line 605, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 102, in execute_job
+    method(**kwargs)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/change_log.py", line 146, in check_for_update
+    app_details = check_release_on_github(app)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/change_log.py", line 206, in check_release_on_github
+    r = requests.get('https://api.github.com/repos/{}/{}/releases'.format(org_name, app))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/frappe/frappe/releases (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fc853371cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connection.py", line 156, in _new_conn
+    conn = connection.create_connection(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.8/socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connection.py", line 300, in connect
+    conn = self._new_conn()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connection.py", line 168, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x7fc853371cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/frappe/frappe/releases (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fc853371cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 793, in perform_job
+    rv = job.perform()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/job.py", line 599, in perform
+    self._result = self._execute()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/job.py", line 605, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 102, in execute_job
+    method(**kwargs)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/change_log.py", line 146, in check_for_update
+    app_details = check_release_on_github(app)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/change_log.py", line 206, in check_release_on_github
+    r = requests.get('https://api.github.com/repos/{}/{}/releases'.format(org_name, app))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/frappe/frappe/releases (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fc853371cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+17:47:53 Moving job to 'failed' queue
+17:47:53 long: frappe.utils.background_jobs.execute_job(event='daily_long', is_async=True, job_name='frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily', kwargs={}, method='frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily', site='innovast', user='Administrator') (cd85ad23-3c2c-4a97-bed0-8ad9959af310)
+17:47:54 short: Job OK (5697e4b5-8d8b-485c-9a92-5696e4e8ce02)
+17:47:54 Result is kept for 500 seconds
+17:47:54 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.email.doctype.notification.notification.trigger_daily_alerts', kwargs={}, method='frappe.email.doctype.notification.notification.trigger_daily_alerts', site='innovast', user='Administrator') (151c2863-031d-4900-a897-cc31499000b3)
+17:47:54 short: Job OK (151c2863-031d-4900-a897-cc31499000b3)
+17:47:54 Result is kept for 500 seconds
+17:47:54 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.realtime.remove_old_task_logs', kwargs={}, method='frappe.realtime.remove_old_task_logs', site='innovast', user='Administrator') (df812254-a9e5-4028-a67f-f67ed02998df)
+17:47:55 short: Job OK (df812254-a9e5-4028-a67f-f67ed02998df)
+17:47:55 Result is kept for 500 seconds
+17:47:55 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.utils.scheduler.restrict_scheduler_events_if_dormant', kwargs={}, method='frappe.utils.scheduler.restrict_scheduler_events_if_dormant', site='innovast', user='Administrator') (8033909e-130b-4480-a9be-f3b3c888b70a)
+17:47:55 short: Job OK (8033909e-130b-4480-a9be-f3b3c888b70a)
+17:47:55 Result is kept for 500 seconds
+17:47:55 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.email.doctype.auto_email_report.auto_email_report.send_daily', kwargs={}, method='frappe.email.doctype.auto_email_report.auto_email_report.send_daily', site='innovast', user='Administrator') (8d6aa515-97c1-4a36-92c3-f8dcebd4e8c2)
+17:47:56 long: Job OK (cd85ad23-3c2c-4a97-bed0-8ad9959af310)
+17:47:56 Result is kept for 500 seconds
+17:47:56 long: frappe.utils.background_jobs.execute_job(event='daily_long', is_async=True, job_name='frappe.integrations.doctype.google_drive.google_drive.daily_backup', kwargs={}, method='frappe.integrations.doctype.google_drive.google_drive.daily_backup', site='innovast', user='Administrator') (3fd8fc94-ebb7-4734-9b25-a0f008f94328)
+17:47:57 long: Job OK (3fd8fc94-ebb7-4734-9b25-a0f008f94328)
+17:47:57 Result is kept for 500 seconds
+17:47:57 long: frappe.utils.background_jobs.execute_job(event='daily_long', is_async=True, job_name='erpnext.setup.doctype.email_digest.email_digest.send', kwargs={}, method='erpnext.setup.doctype.email_digest.email_digest.send', site='innovast', user='Administrator') (308a8768-1ded-4b94-8a33-de2fcd1e9753)
+17:47:57 long: Job OK (308a8768-1ded-4b94-8a33-de2fcd1e9753)
+17:47:57 Result is kept for 500 seconds
+17:47:57 long: frappe.utils.background_jobs.execute_job(event='daily_long', is_async=True, job_name='erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool.update_latest_price_in_all_boms', kwargs={}, method='erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool.update_latest_price_in_all_boms', site='innovast', user='Administrator') (5f079dbe-f851-481b-93da-5ed8f36e4ac1)
+17:47:58 long: Job OK (5f079dbe-f851-481b-93da-5ed8f36e4ac1)
+17:47:58 Result is kept for 500 seconds
+17:47:58 long: frappe.utils.background_jobs.execute_job(event='daily_long', is_async=True, job_name='erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.process_expired_allocation', kwargs={}, method='erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.process_expired_allocation', site='innovast', user='Administrator') (1ed77724-9f7a-42ed-8232-b992a6a234db)
+17:47:59 long: Job OK (1ed77724-9f7a-42ed-8232-b992a6a234db)
+17:47:59 Result is kept for 500 seconds
+17:47:59 long: frappe.utils.background_jobs.execute_job(event='daily_long', is_async=True, job_name='erpnext.hr.utils.generate_leave_encashment', kwargs={}, method='erpnext.hr.utils.generate_leave_encashment', site='innovast', user='Administrator') (19fcfef8-11b2-4063-bd95-997643ef3ad1)
+17:48:00 long: Job OK (19fcfef8-11b2-4063-bd95-997643ef3ad1)
+17:48:00 Result is kept for 500 seconds
+17:48:07 short: Job OK (8d6aa515-97c1-4a36-92c3-f8dcebd4e8c2)
+17:48:07 Result is kept for 500 seconds
+17:48:07 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.core.doctype.activity_log.activity_log.clear_authentication_logs', kwargs={}, method='frappe.core.doctype.activity_log.activity_log.clear_authentication_logs', site='innovast', user='Administrator') (d71067d9-99ac-4dbc-93b5-3bac8ea44693)
+17:48:08 short: Job OK (d71067d9-99ac-4dbc-93b5-3bac8ea44693)
+17:48:08 Result is kept for 500 seconds
+17:48:08 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record', kwargs={}, method='frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record', site='innovast', user='Administrator') (c68559f5-8dae-4675-b928-ece30e9cc7bb)
+17:48:08 short: Job OK (c68559f5-8dae-4675-b928-ece30e9cc7bb)
+17:48:08 Result is kept for 500 seconds
+17:48:08 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.desk.form.document_follow.send_daily_updates', kwargs={}, method='frappe.desk.form.document_follow.send_daily_updates', site='innovast', user='Administrator') (a4af00bb-39e3-4478-98ba-8ea35fc65b4d)
+17:48:08 short: Job OK (a4af00bb-39e3-4478-98ba-8ea35fc65b4d)
+17:48:08 Result is kept for 500 seconds
+17:48:08 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points', kwargs={}, method='frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points', site='innovast', user='Administrator') (d1036621-5c75-490d-9998-a48f4469b018)
+17:48:08 short: Job OK (d1036621-5c75-490d-9998-a48f4469b018)
+17:48:08 Result is kept for 500 seconds
+17:48:08 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.integrations.doctype.google_contacts.google_contacts.sync', kwargs={}, method='frappe.integrations.doctype.google_contacts.google_contacts.sync', site='innovast', user='Administrator') (42591001-e27c-43c6-958f-add54d5e0613)
+17:48:09 short: Job OK (42591001-e27c-43c6-958f-add54d5e0613)
+17:48:09 Result is kept for 500 seconds
+17:48:09 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry', kwargs={}, method='frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry', site='innovast', user='Administrator') (b1366d64-64b3-4b5f-8528-4e4497b216a6)
+17:48:09 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='innovast', user='Administrator') (da38e2d2-69ee-4a47-bfef-c55ef8b736c6)
+17:48:09 short: Job OK (b1366d64-64b3-4b5f-8528-4e4497b216a6)
+17:48:09 Result is kept for 500 seconds
+17:48:09 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_repeat_as_completed', kwargs={}, method='frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_repeat_as_completed', site='innovast', user='Administrator') (745c4bf0-cdbc-4b41-87ad-9da65477626f)
+17:48:09 default: Job OK (da38e2d2-69ee-4a47-bfef-c55ef8b736c6)
+17:48:09 Result is kept for 500 seconds
+17:48:09 Cleaning registries for queue: default
+17:48:09 short: Job OK (745c4bf0-cdbc-4b41-87ad-9da65477626f)
+17:48:09 Result is kept for 500 seconds
+17:48:09 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.email.doctype.unhandled_email.unhandled_email.remove_old_unhandled_emails', kwargs={}, method='frappe.email.doctype.unhandled_email.unhandled_email.remove_old_unhandled_emails', site='innovast', user='Administrator') (be3ed29d-ba77-4be8-b822-e0afc8d42945)
+17:48:09 short: Job OK (be3ed29d-ba77-4be8-b822-e0afc8d42945)
+17:48:09 Result is kept for 500 seconds
+17:48:09 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='frappe.core.doctype.prepared_report.prepared_report.delete_expired_prepared_reports', kwargs={}, method='frappe.core.doctype.prepared_report.prepared_report.delete_expired_prepared_reports', site='innovast', user='Administrator') (864720e8-dd11-440f-84b9-4f9e06216f5f)
+17:48:10 short: Job OK (864720e8-dd11-440f-84b9-4f9e06216f5f)
+17:48:10 Result is kept for 500 seconds
+17:48:10 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.stock.reorder_item.reorder_item', kwargs={}, method='erpnext.stock.reorder_item.reorder_item', site='innovast', user='Administrator') (fdba2368-952d-4b50-9741-7d904b3d2a12)
+17:48:10 short: Job OK (fdba2368-952d-4b50-9741-7d904b3d2a12)
+17:48:10 Result is kept for 500 seconds
+17:48:10 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.support.doctype.issue.issue.auto_close_tickets', kwargs={}, method='erpnext.support.doctype.issue.issue.auto_close_tickets', site='innovast', user='Administrator') (a64be19a-9e11-4992-bf67-5d417703acb0)
+17:48:10 short: Job OK (a64be19a-9e11-4992-bf67-5d417703acb0)
+17:48:10 Result is kept for 500 seconds
+17:48:10 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.crm.doctype.opportunity.opportunity.auto_close_opportunity', kwargs={}, method='erpnext.crm.doctype.opportunity.opportunity.auto_close_opportunity', site='innovast', user='Administrator') (f185a965-7f09-4c33-aa51-64947c6736a9)
+17:48:11 short: Job OK (f185a965-7f09-4c33-aa51-64947c6736a9)
+17:48:11 Result is kept for 500 seconds
+17:48:11 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.controllers.accounts_controller.update_invoice_status', kwargs={}, method='erpnext.controllers.accounts_controller.update_invoice_status', site='innovast', user='Administrator') (99195adf-8da6-49d5-bce8-e9e66a3e454f)
+17:48:11 short: Job OK (99195adf-8da6-49d5-bce8-e9e66a3e454f)
+17:48:11 Result is kept for 500 seconds
+17:48:11 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_fiscal_year', kwargs={}, method='erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_fiscal_year', site='innovast', user='Administrator') (c0d2838a-a172-45d6-89bc-dea3886bc0b2)
+17:48:11 short: Job OK (c0d2838a-a172-45d6-89bc-dea3886bc0b2)
+17:48:11 Result is kept for 500 seconds
+17:48:11 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.hr.doctype.employee.employee.send_birthday_reminders', kwargs={}, method='erpnext.hr.doctype.employee.employee.send_birthday_reminders', site='innovast', user='Administrator') (7b0f4451-cef6-41ec-bcbf-0332b07371fc)
+17:48:12 short: Job OK (7b0f4451-cef6-41ec-bcbf-0332b07371fc)
+17:48:12 Result is kept for 500 seconds
+17:48:12 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.projects.doctype.task.task.set_tasks_as_overdue', kwargs={}, method='erpnext.projects.doctype.task.task.set_tasks_as_overdue', site='innovast', user='Administrator') (ce5cd781-407b-4a45-8559-db59f3a0cdec)
+17:48:12 short: Job OK (ce5cd781-407b-4a45-8559-db59f3a0cdec)
+17:48:12 Result is kept for 500 seconds
+17:48:12 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.assets.doctype.asset.depreciation.post_depreciation_entries', kwargs={}, method='erpnext.assets.doctype.asset.depreciation.post_depreciation_entries', site='innovast', user='Administrator') (89b55a11-a9ad-4edd-bc2d-4f61fcadbf3c)
+17:48:12 short: Job OK (89b55a11-a9ad-4edd-bc2d-4f61fcadbf3c)
+17:48:12 Result is kept for 500 seconds
+17:48:12 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.send_summary', kwargs={}, method='erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.send_summary', site='innovast', user='Administrator') (3d02b018-f86f-4980-a1b2-971b60173ccd)
+17:48:13 short: Job OK (3d02b018-f86f-4980-a1b2-971b60173ccd)
+17:48:13 Result is kept for 500 seconds
+17:48:13 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.stock.doctype.serial_no.serial_no.update_maintenance_status', kwargs={}, method='erpnext.stock.doctype.serial_no.serial_no.update_maintenance_status', site='innovast', user='Administrator') (63769085-e1e7-4295-836f-b1bd97fcbf9d)
+17:48:13 short: Job OK (63769085-e1e7-4295-836f-b1bd97fcbf9d)
+17:48:13 Result is kept for 500 seconds
+17:48:13 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.buying.doctype.supplier_scorecard.supplier_scorecard.refresh_scorecards', kwargs={}, method='erpnext.buying.doctype.supplier_scorecard.supplier_scorecard.refresh_scorecards', site='innovast', user='Administrator') (606ffa17-861d-4dab-9b31-75f32d7b1344)
+17:48:16 short: Job OK (606ffa17-861d-4dab-9b31-75f32d7b1344)
+17:48:16 Result is kept for 500 seconds
+17:48:16 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.setup.doctype.company.company.cache_companies_monthly_sales_history', kwargs={}, method='erpnext.setup.doctype.company.company.cache_companies_monthly_sales_history', site='innovast', user='Administrator') (a9e80bbe-0ce6-41e2-ab28-ff5d5e31b392)
+17:48:16 short: Job OK (a9e80bbe-0ce6-41e2-ab28-ff5d5e31b392)
+17:48:16 Result is kept for 500 seconds
+17:48:16 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.assets.doctype.asset.asset.update_maintenance_status', kwargs={}, method='erpnext.assets.doctype.asset.asset.update_maintenance_status', site='innovast', user='Administrator') (507d1a5d-6719-49cf-9b4d-c976a2610352)
+17:48:17 short: Job OK (507d1a5d-6719-49cf-9b4d-c976a2610352)
+17:48:17 Result is kept for 500 seconds
+17:48:17 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.assets.doctype.asset.asset.make_post_gl_entry', kwargs={}, method='erpnext.assets.doctype.asset.asset.make_post_gl_entry', site='innovast', user='Administrator') (d226c76d-dd59-4175-b508-bab1c43ff896)
+17:48:17 short: Job OK (d226c76d-dd59-4175-b508-bab1c43ff896)
+17:48:17 Result is kept for 500 seconds
+17:48:17 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.crm.doctype.contract.contract.update_status_for_contracts', kwargs={}, method='erpnext.crm.doctype.contract.contract.update_status_for_contracts', site='innovast', user='Administrator') (dc7d0e85-3974-4806-a0ad-34c2d39cd709)
+17:48:17 short: Job OK (dc7d0e85-3974-4806-a0ad-34c2d39cd709)
+17:48:17 Result is kept for 500 seconds
+17:48:17 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.projects.doctype.project.project.update_project_sales_billing', kwargs={}, method='erpnext.projects.doctype.project.project.update_project_sales_billing', site='innovast', user='Administrator') (44a7d40e-2dc6-46c4-95f4-9a60f81c7b53)
+17:48:17 short: Job OK (44a7d40e-2dc6-46c4-95f4-9a60f81c7b53)
+17:48:17 Result is kept for 500 seconds
+17:48:17 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.projects.doctype.project.project.send_project_status_email_to_users', kwargs={}, method='erpnext.projects.doctype.project.project.send_project_status_email_to_users', site='innovast', user='Administrator') (20b1376d-8a63-4c2a-8d48-44b00d87b426)
+17:48:18 short: Job OK (20b1376d-8a63-4c2a-8d48-44b00d87b426)
+17:48:18 Result is kept for 500 seconds
+17:48:18 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.quality_management.doctype.quality_review.quality_review.review', kwargs={}, method='erpnext.quality_management.doctype.quality_review.quality_review.review', site='innovast', user='Administrator') (478dd0e2-86ab-471f-bf92-719ba9fc00eb)
+17:48:18 short: Job OK (478dd0e2-86ab-471f-bf92-719ba9fc00eb)
+17:48:18 Result is kept for 500 seconds
+17:48:18 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.support.doctype.service_level_agreement.service_level_agreement.check_agreement_status', kwargs={}, method='erpnext.support.doctype.service_level_agreement.service_level_agreement.check_agreement_status', site='innovast', user='Administrator') (ce8e7edb-f05b-48be-87ab-d73d8a1d1554)
+17:48:18 short: Job OK (ce8e7edb-f05b-48be-87ab-d73d8a1d1554)
+17:48:18 Result is kept for 500 seconds
+17:48:18 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.crm.doctype.email_campaign.email_campaign.send_email_to_leads_or_contacts', kwargs={}, method='erpnext.crm.doctype.email_campaign.email_campaign.send_email_to_leads_or_contacts', site='innovast', user='Administrator') (1c399d73-9e5e-4471-a2b5-b4496777c8ed)
+17:48:19 short: Job OK (1c399d73-9e5e-4471-a2b5-b4496777c8ed)
+17:48:19 Result is kept for 500 seconds
+17:48:19 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status', kwargs={}, method='erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status', site='innovast', user='Administrator') (f27ed95b-aaa0-43df-b0c9-4cf11b62cf28)
+17:48:19 short: Job OK (f27ed95b-aaa0-43df-b0c9-4cf11b62cf28)
+17:48:19 Result is kept for 500 seconds
+17:48:19 short: frappe.utils.background_jobs.execute_job(event='daily', is_async=True, job_name='erpnext.selling.doctype.quotation.quotation.set_expired_status', kwargs={}, method='erpnext.selling.doctype.quotation.quotation.set_expired_status', site='innovast', user='Administrator') (51469944-d4bc-4805-9273-0dcec141bd56)
+17:48:19 short: Job OK (51469944-d4bc-4805-9273-0dcec141bd56)
+17:48:19 Result is kept for 500 seconds
+17:48:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.queue.flush', kwargs={}, method='frappe.email.queue.flush', site='innovast', user='Administrator') (150c933b-42f4-4dae-969d-371d5e2fff05)
+17:48:46 short: Job OK (150c933b-42f4-4dae-969d-371d5e2fff05)
+17:48:46 Result is kept for 500 seconds
+17:48:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.pull', kwargs={}, method='frappe.email.doctype.email_account.email_account.pull', site='innovast', user='Administrator') (2caa2e1c-8279-458f-94fd-70bfb20564a5)
+17:48:46 short: Job OK (2caa2e1c-8279-458f-94fd-70bfb20564a5)
+17:48:46 Result is kept for 500 seconds
+17:48:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.email.doctype.email_account.email_account.notify_unreplied', kwargs={}, method='frappe.email.doctype.email_account.email_account.notify_unreplied', site='innovast', user='Administrator') (797542a6-86d3-49b0-80ed-04c1ad214cfa)
+17:48:46 short: Job OK (797542a6-86d3-49b0-80ed-04c1ad214cfa)
+17:48:46 Result is kept for 500 seconds
+17:48:46 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.oauth.delete_oauth2_data', kwargs={}, method='frappe.oauth.delete_oauth2_data', site='innovast', user='Administrator') (8e86f006-c1df-4e58-ba37-ed4d664a4e8a)
+17:48:47 short: Job OK (8e86f006-c1df-4e58-ba37-ed4d664a4e8a)
+17:48:47 Result is kept for 500 seconds
+17:48:47 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', kwargs={}, method='frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment', site='innovast', user='Administrator') (d97e4926-fb5c-4e7e-8ccc-d55abdc61e75)
+17:48:47 short: Job OK (d97e4926-fb5c-4e7e-8ccc-d55abdc61e75)
+17:48:47 Result is kept for 500 seconds
+17:48:47 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.twofactor.delete_all_barcodes_for_users', kwargs={}, method='frappe.twofactor.delete_all_barcodes_for_users', site='innovast', user='Administrator') (1281df45-e89d-4267-a66b-8e45cbe845f1)
+17:48:47 short: Job OK (1281df45-e89d-4267-a66b-8e45cbe845f1)
+17:48:47 Result is kept for 500 seconds
+17:48:47 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.website.doctype.web_page.web_page.check_publish_status', kwargs={}, method='frappe.website.doctype.web_page.web_page.check_publish_status', site='innovast', user='Administrator') (5a834e00-b1e3-4839-9c44-835ceb635a98)
+17:48:47 short: Job OK (5a834e00-b1e3-4839-9c44-835ceb635a98)
+17:48:47 Result is kept for 500 seconds
+17:48:47 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.utils.global_search.sync_global_search', kwargs={}, method='frappe.utils.global_search.sync_global_search', site='innovast', user='Administrator') (fd913112-70da-4bef-ae61-803b5f2c32c2)
+17:48:47 short: Job OK (fd913112-70da-4bef-ae61-803b5f2c32c2)
+17:48:47 Result is kept for 500 seconds
+17:48:47 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='frappe.monitor.flush', kwargs={}, method='frappe.monitor.flush', site='innovast', user='Administrator') (4f97790b-c708-4c41-bae6-f1b09ce8ab9c)
+17:48:47 short: Job OK (4f97790b-c708-4c41-bae6-f1b09ce8ab9c)
+17:48:47 Result is kept for 500 seconds
+17:48:47 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.projects.doctype.project.project.project_status_update_reminder', kwargs={}, method='erpnext.projects.doctype.project.project.project_status_update_reminder', site='innovast', user='Administrator') (957ad29f-2405-457a-8ea9-17bf322ed5b8)
+17:48:47 short: Job OK (957ad29f-2405-457a-8ea9-17bf322ed5b8)
+17:48:47 Result is kept for 500 seconds
+17:48:47 short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', kwargs={}, method='erpnext.healthcare.doctype.patient_appointment.patient_appointment.set_appointment_reminder', site='innovast', user='Administrator') (74636dc3-6495-47f0-8f20-d81d5bf5704c)
+17:48:47 short: Job OK (74636dc3-6495-47f0-8f20-d81d5bf5704c)
+17:48:47 Result is kept for 500 seconds
+17:49:23 Warm shut down requested
+17:49:23 Warm shut down requested
+17:49:23 Warm shut down requested
+21:17:11 RQ worker 'rq:worker:3a2f738f3535499b90b717bc3133ba59.ahmed.2273.default' started, version 0.12.0
+21:17:11 *** Listening on default...
+21:17:11 Cleaning registries for queue: default
+21:17:11 RQ worker 'rq:worker:aac9c907802447d8abada97d71dfc564.ahmed.2274.short' started, version 0.12.0
+21:17:11 *** Listening on short...
+21:17:11 Cleaning registries for queue: short
+21:17:11 RQ worker 'rq:worker:f206f9166b0c4341bac8e98f6d9485a8.ahmed.2275.long' started, version 0.12.0
+21:17:11 *** Listening on long...
+21:17:11 Cleaning registries for queue: long
+21:20:10 Warm shut down requested
+21:20:10 Warm shut down requested
+21:20:10 Warm shut down requested
+16:41:49 RQ worker 'rq:worker:288b355e203a400896b02d365424dfcb.ahmed.2209.long' started, version 0.12.0
+16:41:49 RQ worker 'rq:worker:beeddcc3903c415395fb9f29d74e6fe9.ahmed.2207.default' started, version 0.12.0
+16:41:49 *** Listening on default...
+16:41:49 Cleaning registries for queue: default
+16:41:49 RQ worker 'rq:worker:dcc8d4b9576b4042af89db7ad6335e56.ahmed.2208.short' started, version 0.12.0
+16:41:49 *** Listening on short...
+16:41:49 Cleaning registries for queue: short
+16:41:49 *** Listening on long...
+16:41:49 Cleaning registries for queue: long
+19:07:07 Warm shut down requested
+19:07:07 Warm shut down requested
+19:07:07 Warm shut down requested
+00:34:19 RQ worker 'rq:worker:baf05ca2ed604174999df9f8d69ff5ff.ahmed.2233.long' started, version 0.12.0
+00:34:19 RQ worker 'rq:worker:b15ef95635f041dcaaa71b05fd7827de.ahmed.2231.default' started, version 0.12.0
+00:34:19 *** Listening on default...
+00:34:19 Cleaning registries for queue: default
+00:34:19 RQ worker 'rq:worker:bae404652d434cf6a90c8642c98d9a32.ahmed.2232.short' started, version 0.12.0
+00:34:19 *** Listening on short...
+00:34:19 Cleaning registries for queue: short
+00:34:19 *** Listening on long...
+00:34:19 Cleaning registries for queue: long
+00:51:10 Warm shut down requested
+00:51:10 Warm shut down requested
+00:51:10 Warm shut down requested
+11:06:46 RQ worker 'rq:worker:fc07f35bcc6346829814dff3bbea093b.ahmed.2510.default' started, version 0.12.0
+11:06:46 *** Listening on default...
+11:06:46 Cleaning registries for queue: default
+11:06:46 RQ worker 'rq:worker:beae1bbc77c54b678d9d88d54b9c5267.ahmed.2511.short' started, version 0.12.0
+11:06:46 *** Listening on short...
+11:06:46 Cleaning registries for queue: short
+11:06:46 RQ worker 'rq:worker:df2d9ff580144aa6bb78b2ac5ebd5f6e.ahmed.2512.long' started, version 0.12.0
+11:06:46 *** Listening on long...
+11:06:46 Cleaning registries for queue: long
+11:09:47 Warm shut down requested
+11:09:47 Warm shut down requested
+11:09:47 Warm shut down requested
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 174, in _read_from_socket
+    data = recv(self._sock, socket_read_size)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/_compat.py", line 79, in recv
+    return sock.recv(*args, **kwargs)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2879, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2757, in _execute_transaction
+    self.parse_response(connection, '_')
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2837, in parse_response
+    result = StrictRedis.parse_response(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 680, in parse_response
+    response = connection.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 624, in read_response
+    response = self._parser.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 284, in read_response
+    response = self._buffer.readline()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 216, in readline
+    self._read_from_socket()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 190, in _read_from_socket
+    raise ConnectionError("Error while reading from socket: %s" %
+redis.exceptions.ConnectionError: Error while reading from socket: (104, 'Connection reset by peer')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 99, in <module>
+    main()
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name='bench')
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 167, in start_worker
+    start_worker(queue, quiet = quiet)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 151, in start_worker
+    Worker(queues, name=get_worker_name(queue)).work(logging_level = logging_level)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 502, in work
+    self.register_death()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 300, in register_death
+    p.execute()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2894, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2749, in _execute_transaction
+    connection.send_packed_command(all_cmds)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 174, in _read_from_socket
+    data = recv(self._sock, socket_read_size)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/_compat.py", line 79, in recv
+    return sock.recv(*args, **kwargs)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2879, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2757, in _execute_transaction
+    self.parse_response(connection, '_')
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2837, in parse_response
+    result = StrictRedis.parse_response(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 680, in parse_response
+    response = connection.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 624, in read_response
+    response = self._parser.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 284, in read_response
+    response = self._buffer.readline()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 216, in readline
+    self._read_from_socket()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 190, in _read_from_socket
+    raise ConnectionError("Error while reading from socket: %s" %
+redis.exceptions.ConnectionError: Error while reading from socket: (104, 'Connection reset by peer')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 99, in <module>
+    main()
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name='bench')
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 167, in start_worker
+    start_worker(queue, quiet = quiet)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 151, in start_worker
+    Worker(queues, name=get_worker_name(queue)).work(logging_level = logging_level)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 502, in work
+    self.register_death()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 300, in register_death
+    p.execute()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2894, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2749, in _execute_transaction
+    connection.send_packed_command(all_cmds)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 174, in _read_from_socket
+    data = recv(self._sock, socket_read_size)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/_compat.py", line 79, in recv
+    return sock.recv(*args, **kwargs)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2879, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2757, in _execute_transaction
+    self.parse_response(connection, '_')
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2837, in parse_response
+    result = StrictRedis.parse_response(
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 680, in parse_response
+    response = connection.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 624, in read_response
+    response = self._parser.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 284, in read_response
+    response = self._buffer.readline()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 216, in readline
+    self._read_from_socket()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 190, in _read_from_socket
+    raise ConnectionError("Error while reading from socket: %s" %
+redis.exceptions.ConnectionError: Error while reading from socket: (104, 'Connection reset by peer')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 99, in <module>
+    main()
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name='bench')
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 167, in start_worker
+    start_worker(queue, quiet = quiet)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 151, in start_worker
+    Worker(queues, name=get_worker_name(queue)).work(logging_level = logging_level)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 502, in work
+    self.register_death()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 300, in register_death
+    p.execute()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2894, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2749, in _execute_transaction
+    connection.send_packed_command(all_cmds)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+20:04:42 RQ worker 'rq:worker:c8e523575039488b86b13668b83f11f8.ahmed.2097.short' started, version 0.12.0
+20:04:42 RQ worker 'rq:worker:5e2f1c6df7044823b849a0b0eeada2bd.ahmed.2095.default' started, version 0.12.0
+20:04:42 *** Listening on default...
+20:04:42 Cleaning registries for queue: default
+20:04:42 *** Listening on short...
+20:04:42 Cleaning registries for queue: short
+20:04:42 RQ worker 'rq:worker:d157c3de873144bbaee0958e2fa7592c.ahmed.2099.long' started, version 0.12.0
+20:04:42 *** Listening on long...
+20:04:42 Cleaning registries for queue: long
+20:19:54 Warm shut down requested
+20:19:54 Warm shut down requested
+20:19:54 Warm shut down requested
+14:33:31 RQ worker 'rq:worker:e8b70570185946a89ce9137fb19cc953.ahmed.2229.long' started, version 0.12.0
+14:33:31 RQ worker 'rq:worker:4a641a2c73c44000ba6db73582722e35.ahmed.2227.default' started, version 0.12.0
+14:33:31 *** Listening on default...
+14:33:31 Cleaning registries for queue: default
+14:33:31 RQ worker 'rq:worker:8e53bad92e034daba7cc89782d29a107.ahmed.2228.short' started, version 0.12.0
+14:33:31 *** Listening on short...
+14:33:31 Cleaning registries for queue: short
+14:33:31 *** Listening on long...
+14:33:31 Cleaning registries for queue: long
+14:32:04 Warm shut down requested
+14:32:04 Warm shut down requested
+14:32:04 Warm shut down requested
+19:01:35 RQ worker 'rq:worker:13400ba7c5f14aa193626966b31544ea.ahmed.1632.long' started, version 0.12.0
+19:01:35 RQ worker 'rq:worker:41ce7fc766f642b1a51084ba95d2a700.ahmed.1630.default' started, version 0.12.0
+19:01:35 *** Listening on default...
+19:01:35 Cleaning registries for queue: default
+19:01:35 RQ worker 'rq:worker:1388e8c85d4f43fdb89c4a8272dab85e.ahmed.1631.short' started, version 0.12.0
+19:01:35 *** Listening on short...
+19:01:35 Cleaning registries for queue: short
+19:01:35 *** Listening on long...
+19:01:35 Cleaning registries for queue: long
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 177, in _read_from_socket
+16:08:55 Warm shut down requested
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 177, in _read_from_socket
+16:08:55 Warm shut down requested
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 177, in _read_from_socket
+16:08:55 Warm shut down requested
+OSError: Connection closed by server.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 668, in execute_command
+    return self.parse_response(connection, command_name, **options)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 680, in parse_response
+    response = connection.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 624, in read_response
+    response = self._parser.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 284, in read_response
+    response = self._buffer.readline()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 216, in readline
+    self._read_from_socket()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 190, in _read_from_socket
+    raise ConnectionError("Error while reading from socket: %s" %
+redis.exceptions.ConnectionError: Error while reading from socket: ('Connection closed by server.',)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 486, in work
+    result = self.dequeue_job_and_maintain_ttl(timeout)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 517, in dequeue_job_and_maintain_ttl
+    result = self.queue_class.dequeue_any(self.queues, timeout,
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/queue.py", line 460, in dequeue_any
+    result = cls.lpop(queue_keys, timeout, connection=connection)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/queue.py", line 410, in lpop
+    result = connection.blpop(queue_keys, timeout)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 1269, in blpop
+    return self.execute_command('BLPOP', *keys)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 673, in execute_command
+    connection.send_command(*args)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 610, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2879, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2749, in _execute_transaction
+    connection.send_packed_command(all_cmds)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 99, in <module>
+    main()
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name='bench')
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 167, in start_worker
+    start_worker(queue, quiet = quiet)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 151, in start_worker
+    Worker(queues, name=get_worker_name(queue)).work(logging_level = logging_level)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 502, in work
+    self.register_death()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 300, in register_death
+    p.execute()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2894, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2749, in _execute_transaction
+    connection.send_packed_command(all_cmds)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+OSError: Connection closed by server.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 668, in execute_command
+    return self.parse_response(connection, command_name, **options)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 680, in parse_response
+    response = connection.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 624, in read_response
+    response = self._parser.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 284, in read_response
+    response = self._buffer.readline()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 216, in readline
+    self._read_from_socket()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 190, in _read_from_socket
+    raise ConnectionError("Error while reading from socket: %s" %
+redis.exceptions.ConnectionError: Error while reading from socket: ('Connection closed by server.',)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 486, in work
+    result = self.dequeue_job_and_maintain_ttl(timeout)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 517, in dequeue_job_and_maintain_ttl
+    result = self.queue_class.dequeue_any(self.queues, timeout,
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/queue.py", line 460, in dequeue_any
+    result = cls.lpop(queue_keys, timeout, connection=connection)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/queue.py", line 410, in lpop
+    result = connection.blpop(queue_keys, timeout)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 1269, in blpop
+    return self.execute_command('BLPOP', *keys)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 673, in execute_command
+    connection.send_command(*args)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 610, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2879, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2749, in _execute_transaction
+    connection.send_packed_command(all_cmds)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 99, in <module>
+    main()
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name='bench')
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 167, in start_worker
+    start_worker(queue, quiet = quiet)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 151, in start_worker
+    Worker(queues, name=get_worker_name(queue)).work(logging_level = logging_level)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 502, in work
+    self.register_death()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 300, in register_death
+    p.execute()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2894, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2749, in _execute_transaction
+    connection.send_packed_command(all_cmds)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+OSError: Connection closed by server.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 668, in execute_command
+    return self.parse_response(connection, command_name, **options)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 680, in parse_response
+    response = connection.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 624, in read_response
+    response = self._parser.read_response()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 284, in read_response
+    response = self._buffer.readline()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 216, in readline
+    self._read_from_socket()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 190, in _read_from_socket
+    raise ConnectionError("Error while reading from socket: %s" %
+redis.exceptions.ConnectionError: Error while reading from socket: ('Connection closed by server.',)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 486, in work
+    result = self.dequeue_job_and_maintain_ttl(timeout)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 517, in dequeue_job_and_maintain_ttl
+    result = self.queue_class.dequeue_any(self.queues, timeout,
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/queue.py", line 460, in dequeue_any
+    result = cls.lpop(queue_keys, timeout, connection=connection)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/queue.py", line 410, in lpop
+    result = connection.blpop(queue_keys, timeout)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 1269, in blpop
+    return self.execute_command('BLPOP', *keys)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 673, in execute_command
+    connection.send_command(*args)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 610, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2879, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2749, in _execute_transaction
+    connection.send_packed_command(all_cmds)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 484, in connect
+    sock = self._connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 541, in _connect
+    raise err
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 529, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 99, in <module>
+    main()
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name='bench')
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 167, in start_worker
+    start_worker(queue, quiet = quiet)
+  File "/home/ahmed/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 151, in start_worker
+    Worker(queues, name=get_worker_name(queue)).work(logging_level = logging_level)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 502, in work
+    self.register_death()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/rq/worker.py", line 300, in register_death
+    p.execute()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2894, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 2749, in _execute_transaction
+    connection.send_packed_command(all_cmds)
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/ahmed/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to localhost:11000. Connection refused.

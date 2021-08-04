@@ -1,0 +1,9 @@
+2021-06-14 23:02:28,787 INFO Getting app erpnext
+2021-06-14 23:03:11,694 INFO installing erpnext
+2021-06-18 18:37:29,763 INFO creating new app test_app
+2021-06-18 18:39:58,849 INFO installing test_app
+2021-06-19 11:08:03,369 INFO pulling frappe
+2021-06-19 11:08:09,824 INFO pulling erpnext
+2021-06-19 11:33:00,963 INFO installing frappe
+2021-06-19 11:33:05,348 INFO installing erpnext
+2021-06-19 11:33:10,122 INFO installing test_app
